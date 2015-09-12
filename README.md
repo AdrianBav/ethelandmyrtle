@@ -45,3 +45,11 @@ contentcustoms/
 ¦						+-- reps.tpl
 ¦						+-- stores.tpl
 ```
+
+## Find a Sales Rep
+
+This feature allows the client to maintain a list of sales representatives and the states that they serve. The front end of the website renders a map of the US on which customers can click on a state to see a list of sales representatives covering that territory.
+
+## Store Locator
+
+On the backend, the client can import a spreadsheet representing stores that sell their merchandise. The information is parsed, addresses geo-coded and stored in the database. The front-end allows store customers to lookup, via a ZIP code, the stores in their area.

@@ -4,7 +4,7 @@ Ethel & Myrtle is a fashion jewelry and accessories e-commerce site.
 
 ## Project
 
-Two of the customizations on this website were the addition of a **Find a sales Rep** page and a **store locator** page.
+Two of the customizations on this website were the addition of a **Find a Sales Rep** page and a **Store Locator** page.
 
 ## Structure
 
